@@ -1,0 +1,9 @@
+VehicleID str
+gpsvalid bool
+lat float
+lon float
+timestamp datetime
+speed int
+heading
+for_hire_light
+engine_acc bol
